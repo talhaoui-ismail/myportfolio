@@ -1,5 +1,5 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/ismavlzv/repositories/myportfolio
+    - export DEPLOYPATH=/home/ismavlzv/public_html
     - /bin/cp * $DEPLOYPATH
     - /bin/cp * $DEPLOYPATH
